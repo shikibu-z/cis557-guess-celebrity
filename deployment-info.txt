@@ -1,0 +1,10 @@
+/* TODO: put URL where your HW is deployed below.
+Please contact me at junyong@seas.upenn.edu if you are having any trouble. */
+https://cis557-homework4.herokuapp.com/
+
+/* The file structure with client and server is the only solution I am able to
+find in order to make the app working. React-creat-app requires
+babel-jest@26.6.0 while the jest used for backend unit test should be
+babel-jest@27.3.1. Otherwise, the unit test will require a modification in the
+mongodb package (TextEncoder not defined error). This file structure, however,
+should be working just as the one instructed in the README.md. */

@@ -1,0 +1,49 @@
+body {
+  color: white;
+  background: #303030;
+  font-family: Helvetica;
+  padding-top: 20px;
+  padding-left: 200px;
+}
+
+#puzzle {
+  display: flex;
+  height: 50vh;
+  align-items: center;
+  justify-self: center;
+}
+
+img {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  width: 300px;
+}
+
+input[type=text] {
+  padding: 10px 20px;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  transition: 0.5s;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 50px;
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.option {
+  width: 100%;
+}
+
+.column {
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  width: 300px;
+}
