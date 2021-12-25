@@ -65,11 +65,6 @@ headaches down the line.
 - Make sure you put the URL where your application is deployed in the
   `deployment-info.txt` file
 
-At this point your file structure should look like the image below (the `client`
-folder name will vary depending on your HW3 client name):
-
-![hw4 file structure](hw4-files.png)
-
 ## REST API:
 The API documentation is available on Swagger
 (https://app.swaggerhub.com/apis/ericfouh/CIS557_HW_REST_API/1.0.0).
